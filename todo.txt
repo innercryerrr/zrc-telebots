@@ -1,0 +1,52 @@
+e a porra das DB
+
+admin poder adicionar saldo a um usuario (chat, chatter)
+    atrasves de qual bot?
+OK (OTHERWAY) - bot notificador de comprovante pix
+OK (OTHERWAY) - pra sanar o problema do foward >>> enviar mensagem primeiro para abrir chat e parar de dar  400 Bad Request: chat not found
+
+limpar ambiente do android
+    desabilitar not de msg
+    deinstala app merda
+    tira lixo da google e sitema
+
+cliclagem do ambiente android a cada 45sec
+    mudar device id
+    mudar loc
+
+hooks apos trocar ir pela api link
+funcoes nativas de http no Telebot
+
+ver economia de dados os grupo no tele de bug de chip
+
+- compra os app
+INDO - iProxy
+AdrnoidTasker PRO + ativar gstore
+
+ver infra
+
+faze funciona comando adm por saldo no chat
+AGORA > http requester and endpointlistener/webhook handler ?!
+FAZER REQUESTER COM PUPPETER
+
+ajeita config de db path
+ajeita qualquer coisa q fala dps das validate ta retronando ela mesma, inves de reinstitir em /init
+ajeita essa porra:
+
+> Rekcehc Bot - #CHK 💳:
+    Para confirmar:
+    /rrm 1 5213582591
+
+> Dd D:
+    /rrm 1 5213582591
+
+> Rekcehc Bot - #CHK 💳:
+    O pagamento, ao ser processado, será avisado aqui mesmo!
+
+
+
+
+
+Infra
+
+    

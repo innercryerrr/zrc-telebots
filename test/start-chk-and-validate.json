@@ -1,0 +1,321 @@
+{
+  "title": "ccceerer",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1280,
+      "height": 698,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://web.telegram.org/k/",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://web.telegram.org/k/",
+          "title": "Telegram Web"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "selectors": [
+        [
+          "#folders-container > div > div.chatlist-top.has-contacts > ul > li:nth-child(1) > div.c-ripple"
+        ]
+      ],
+      "offsetX": 0,
+      "offsetY": 0,
+      "frame": [],
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.chat-input > div > div.rows-wrapper-wrapper > div > div.new-message-wrapper.has-offset > div.input-message-container > div.input-message-input.scrollable.scrollable-y.i18n.no-scrollbar"
+        ]
+      ],
+      "offsetY": 22,
+      "offsetX": 69
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "/"
+    },
+    {
+      "type": "keyUp",
+      "key": "/",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "/"
+    },
+    {
+      "type": "keyUp",
+      "key": "/",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "k"
+    },
+    {
+      "type": "keyUp",
+      "key": "k",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "/"
+    },
+    {
+      "type": "keyUp",
+      "key": "/",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "x"
+    },
+    {
+      "type": "keyUp",
+      "key": "x",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.bubbles.scrolled-down.has-sticky-dates > div > div > section > div:nth-child(23) > div > div > div.message"
+        ]
+      ],
+      "offsetY": 20,
+      "offsetX": 8,
+      "duration": 1864
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.bubbles.scrolled-down.has-sticky-dates > div > div > section > div:nth-child(23) > div > div > div.message"
+        ]
+      ],
+      "offsetY": 17,
+      "offsetX": 44,
+      "button": "secondary"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#bubble-contextmenu > div.btn-menu-item.rp-overflow.tgico-copy"
+        ]
+      ],
+      "offsetY": 9.586151123046875,
+      "offsetX": 52.54278564453125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.chat-input > div > div.rows-wrapper-wrapper > div > div.new-message-wrapper.has-offset > div.input-message-container > div.input-message-input.scrollable.scrollable-y.i18n.no-scrollbar"
+        ]
+      ],
+      "offsetY": 23,
+      "offsetX": 58
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Meta"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "v"
+    },
+    {
+      "type": "keyUp",
+      "key": "Meta",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.chat-input > div > div.btn-send-container > button > div"
+        ]
+      ],
+      "offsetY": 19,
+      "offsetX": 16
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#column-center > div > div > div.chat-input > div > div.rows-wrapper-wrapper > div > div.new-message-wrapper.has-offset > div.input-message-container > div.input-message-input.scrollable.scrollable-y.i18n.no-scrollbar"
+        ]
+      ],
+      "offsetY": 11,
+      "offsetX": 119
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "/"
+    },
+    {
+      "type": "keyUp",
+      "key": "/",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "k"
+    },
+    {
+      "type": "keyUp",
+      "key": "k",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    }
+  ]
+}
