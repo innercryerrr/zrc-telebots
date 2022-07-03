@@ -83,11 +83,6 @@ function Telebot (options) {
          this.$lowdb.write()
     }
 
-    if (!this.$lowdb.data[this.$name + '.checkings']) {
-         this.$lowdb.data[this.$name + '.checkings'] = [];
-         this.$lowdb.write()
-    }
-
     // * Telebot() HELPERS * --------------------------;
     function makeAxiosBotInst () {
         

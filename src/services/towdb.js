@@ -2,10 +2,6 @@ const path = require('path');
 
 async function towdb (colls) {
 
-    if (colls) {
-        // ...
-    }
-
     const start = async () => {
         
         let lowdb = await import('lowdb'),
